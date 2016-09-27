@@ -1,7 +1,8 @@
 # [XXX](https://github.com/xxx)的学习日志 —— [思客](http://sike.io) JS 黑魔法训练营
-思客大法好！JS 大法好！
 
-[最有良心的前端培训](sike.io)
+我在思客学前端，每天的学习心得都记录在这里
+
+[思客的 JavaScript 和 React 教学是最优有良心的！](http://sike.io)
 
 ## 配置你自己的学习日志
 1. fork 这个 repo
